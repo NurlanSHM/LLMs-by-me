@@ -83,3 +83,4 @@ If you get CUDA errors, check if your GPU and PyTorch versions match.
 Blank or repetitive responses? Try resetting context or adjusting generation parameters like temperature and top_p.
 
 License
+MIT License
