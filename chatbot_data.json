@@ -1,0 +1,149 @@
+{
+  "hello": [
+    "Hi there!",
+    "Hello!",
+    "Hey!",
+    "Hi! How can I help?",
+    "Greetings!",
+    "Hey! What's up?",
+    "Good to see you!",
+    "Hello, friend!",
+    "Hiya!",
+    "Hey there! 😊",
+    "Hi! Nice to chat with you.",
+    "Howdy!",
+    "Salutations my esteemed friend!"
+  ],
+  "how are you": [
+    "I'm doing great, thanks!",
+    "All good here!",
+    "Feeling fantastic today!",
+    "I'm fine, how about you?",
+    "I’m just code, but I’m doing well!",
+    "Pretty good—thanks for asking!",
+    "Doing well—what about you?",
+    "Couldn't be better!",
+    "I'm great! You?",
+    "Busy but happy!",
+    "Better now that youre here!"
+  ],
+  "what's up": [
+    "Not much, you?",
+    "Just chatting with you!",
+    "All good here.",
+    "Same old, same old.",
+    "Just hanging out.",
+    "Feeling great—how about you?",
+    "Oh, you know, living the dream!",
+    "Nothing much—what about you?",
+    "Just coding away.",
+    "Here and there, you?",
+    "All’s well here!",
+    "Keeping busy—how about yourself?",
+    "Just taking it easy.",
+    "Up to the usual stuff.",
+    "Just chilling, you?",
+    "Busy as ever!",
+    "Just enjoying my day.",
+    "Just kicking back.",
+    "Just vibing here.",
+    "Just working on some cool projects.",
+    "Same here—just relaxing.",
+    "All quiet on my end.",
+    "Just passing the time.",
+    "Nothing exciting, you?",
+    "Just hanging around.",
+    "Staying productive! And you?",
+    "Just living life.",
+    "All systems go here.",
+    "Just keeping it low-key.",
+    "In chill mode—how about you?"
+  ],
+  "bye": [
+    "Goodbye!",
+    "See you later!",
+    "Take care!",
+    "Bye! Have a great day!",
+    "Catch you later!",
+    "Bye-bye!",
+    "Talk soon!",
+    "Farewell!",
+    "Peace out!",
+    "Until next time!"
+  ],
+  "thank you": [
+    "You're welcome!",
+    "No problem!",
+    "Anytime!",
+    "Glad to help!",
+    "My pleasure!",
+    "Happy to assist!",
+    "Don't mention it!",
+    "Sure thing!"
+  ],
+  "who are you": [
+    "I'm nChat, your local chatbot.",
+    "I’m an AI chatbot here to chat with you.",
+    "Just a friendly bot ready to help.",
+    "Your personal assistant bot!",
+    "I’m nChat—nice to meet you!"
+  ],
+  "what is your name": [
+    "I'm called nChat.",
+    "You can call me nChat.",
+    "I go by nChat.",
+    "The name's nChat!",
+    "nChat at your service!"
+  ],
+  "how old are you": [
+    "I don't have an age, I'm just code.",
+    "Age is just a number for me!",
+    "I exist outside of time.",
+    "I was created recently, but I don't age.",
+    "Time doesn't apply to me!"
+  ],
+  "can you help me": [
+    "Of course! What do you need?",
+    "I’ll do my best to assist you.",
+    "Yes! Just ask me anything.",
+    "I'm here to help.",
+    "Absolutely—how can I be of service?"
+  ],
+  "what can you do": [
+    "I can chat with you and learn new responses!",
+    "I'm a simple chatbot, but I'm getting smarter.",
+    "I can answer questions and learn from you.",
+    "I’m here to keep you company and answer questions.",
+    "I can learn and respond—teach me new things!"
+  ],
+  "tell me a joke": [
+    "Why did the scarecrow win an award? Because he was outstanding in his field!",
+    "I would tell you a construction joke, but I'm still working on it.",
+    "Why don't scientists trust atoms? Because they make up everything!",
+    "I’m reading a book about anti-gravity. It’s impossible to put down!",
+    "Why did the computer get cold? It forgot to close its Windows!"
+  ],
+  "good morning": [
+    "Good morning!",
+    "Morning! How can I help?",
+    "Top of the morning to you!",
+    "Hope you have a great day!",
+    "Rise and shine!"
+  ],
+  "good night": [
+    "Good night! Sleep well.",
+    "Sweet dreams!",
+    "Rest well!",
+    "See you tomorrow!",
+    "Nighty night!"
+  ],
+  "wat up": [
+    "Not up to much, what about you?"
+  ],
+  "how many years have you lived for": [
+    "I do not live, I'm just code."
+  ],
+  "what is a game": [
+    "A game is used to entertain a person, like Chess."
+  ]
+}
