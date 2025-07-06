@@ -161,6 +161,7 @@ class ChatbotGUI:
         root.title("Trainable AI Chatbot")
         root.geometry("600x450")
         root.configure(bg="#2e2e2e")
+        
         # Buttons frame
         ctrl = tk.Frame(root, bg="#2e2e2e")
         ctrl.pack(fill=tk.X, padx=12, pady=(12,0))
@@ -176,11 +177,13 @@ class ChatbotGUI:
                                    font=("Segoe UI",9), bg="#007acc", fg="#fff",
                                    relief="flat", padx=6, pady=2)
         self.train_btn.pack(side=tk.RIGHT)
+
         # Chat area
         self.chat_area = tk.Text(root, wrap=tk.WORD, state='disabled',
                                  font=("Segoe UI",11), bg="#3c3c3c", fg="#ddd",
                                  bd=0, padx=10, pady=10)
         self.chat_area.pack(fill=tk.BOTH, expand=True, padx=12, pady=12)
+
         # Input area
         inp = tk.Frame(root, bg="#4a4a4a")
         inp.pack(fill=tk.X, padx=12, pady=(0,12))
@@ -202,12 +205,14 @@ class ChatbotGUI:
             self.bot.train_model(path)
             self._append("Training finished. Model saved.\n")
 
+    # Clear chat area
     def clear_chat(self):
         self.chat_area.config(state='normal')
         self.chat_area.delete('1.0', tk.END)
         self.chat_area.config(state='disabled')
         self.bot.reset_context()
 
+    # Toggle dark mode
     def toggle_dark(self):
         self.dark = not self.dark
         bg, fg = ("#2e2e2e", "#ddd") if self.dark else ("#eaeaea", "#333")
