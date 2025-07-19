@@ -88,6 +88,8 @@ Blank or repetitive responses? Try resetting context or adjusting generation par
 # License:
 
 Copyright © 2025 Nurlan Shamilov. All rights reserved.
+
 Permission is granted to view, study, and use the code for your PERSONAL use only.  
+
 Redistribution, modification, or commercial use of this code  
 requires prior written approval from the author.
