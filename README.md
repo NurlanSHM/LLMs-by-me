@@ -57,8 +57,8 @@ Run training script:
 ## Data Format
 
 The training data should be a JSON file with a list of conversations:
-`
-[
+
+`[
   {
     "input": "Hello, how are you?",
     "response": "I'm doing great, thank you!"
