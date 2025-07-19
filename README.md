@@ -15,7 +15,7 @@ A simple yet trainable AI chatbot based on Microsoft’s DialoGPT model using Hu
 
 ## Requirements
 
-- Python 3.7+  (I recommend 3.13)
+- Python 3.7+  (I recommend 3.13 and running in an IDE)
 - [PyTorch](https://pytorch.org/get-started/locally/) (with CUDA if you want GPU support)  
 - Transformers library  
 - Datasets library (Hugging Face)  
@@ -49,7 +49,7 @@ You can train the chatbot on your own conversational data in JSON format (see ex
 
 Run training script:
 
-python train.py --data_path your_data.json --model_name microsoft/DialoGPT-medium
+`python train.py --data_path your_data.json --model_name microsoft/DialoGPT-medium`
 
 
 ---
@@ -57,7 +57,7 @@ python train.py --data_path your_data.json --model_name microsoft/DialoGPT-mediu
 ## Data Format
 
 The training data should be a JSON file with a list of conversations:
-
+`
 [
   {
     "input": "Hello, how are you?",
@@ -68,7 +68,7 @@ The training data should be a JSON file with a list of conversations:
     "response": "Why did the chicken cross the road? To get to the other side!"
   }
 ]
-
+`
 
 Note:
 Training large models requires significant GPU memory (8GB+ recommended).
