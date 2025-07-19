@@ -72,7 +72,6 @@ The training data should be a JSON file with a list of conversations:
 
 Note:
 Training large models requires significant GPU memory (8GB+ recommended).
-
 Keep an eye on max sequence length to avoid memory errors.
 
 For best results, fine-tune with a batch size of 2-4 and adjust learning rate accordingly.
