@@ -76,7 +76,7 @@ Keep an eye on max sequence length to avoid memory errors.
 
 For best results, fine-tune with a batch size of 2-4 and adjust learning rate accordingly.
 
-Troubleshooting
+Troubleshooting:
 If you get CUDA errors, check if your GPU and PyTorch versions match.
 
 Blank or repetitive responses? Try resetting context or adjusting generation parameters like temperature and top_p.
