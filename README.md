@@ -1,4 +1,4 @@
-# Transformer Chatbot (DialoGPT)
+# nChat Chatbot (DialoGPT)
 
 A simple yet trainable AI chatbot based on Microsoft’s DialoGPT model using Hugging Face Transformers and PyTorch.
 
