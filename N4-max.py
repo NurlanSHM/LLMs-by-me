@@ -1,3 +1,4 @@
+import argparse
 import tkinter as tk
 import os
 import json
@@ -6,6 +7,8 @@ import torch
 import random
 from transformers import AutoModelForCausalLM, AutoTokenizer, Trainer, TrainingArguments, DataCollatorForLanguageModeling
 from torch.utils.data import Dataset
+
+DEFAULT_MODEL_NAME = "microsoft/DialoGPT-medium"
 
 # Normalize text
 def clean_text(text: str) -> str:
@@ -35,7 +38,7 @@ class QADataset(Dataset):
 
 class TransformerChatbot:
     def __init__(self,
-                 model_name: str = "microsoft/DialoGPT-medium",
+                 model_name: str = DEFAULT_MODEL_NAME,
                  device: str = None):
         # Setup device
         self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
@@ -239,8 +242,16 @@ class ChatbotGUI:
         self.chat_area.config(state='disabled')
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run the DialoGPT chatbot.")
+    parser.add_argument(
+        "--model",
+        default=DEFAULT_MODEL_NAME,
+        help="Hugging Face model ID or local model directory (default: %(default)s)",
+    )
+    args = parser.parse_args()
+
     from tkinter import filedialog
-    bot = TransformerChatbot()
+    bot = TransformerChatbot(model_name=args.model)
     root = tk.Tk()
     app = ChatbotGUI(root, bot)
     root.mainloop()
