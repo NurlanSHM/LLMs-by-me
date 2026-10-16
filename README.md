@@ -35,7 +35,10 @@ N4 uses `microsoft/DialoGPT-medium` by default. You can pass another Hugging Fac
 
 ```bash
 python N4-max.py --model microsoft/DialoGPT-medium
-python N4-max.py --model ./path/to/model-directory
 ```
 
-When you choose **Train** in N4, the GUI prompts you to select a JSON file containing Q&A objects with `input` and `response` fields.
+Click **Train Model** to select a JSON file containing Q&A objects with `input` and `response` fields. N4 saves the fine-tuned model and tokenizer to `./fine_tuned_model`; run it later with:
+
+```bash
+python N4-max.py --model ./fine_tuned_model
+```
