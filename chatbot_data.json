@@ -145,5 +145,613 @@
   ],
   "what is a game": [
     "A game is used to entertain a person, like Chess."
+  ],
+  "hey there": [
+    "Hey! What would you like to talk about?",
+    "Hi there—how can I help?"
+  ],
+  "hi nchat": [
+    "Hi! What can I do for you?",
+    "Hello! What would you like to chat about?"
+  ],
+  "good afternoon": [
+    "Good afternoon! How is your day going?",
+    "Hey, good afternoon! What can I help with?"
+  ],
+  "good evening": [
+    "Good evening! How has your day been?",
+    "Evening! What would you like to talk about?"
+  ],
+  "how's it going": [
+    "Pretty well here—how about you?",
+    "I'm ready to chat. How's it going for you?"
+  ],
+  "how is your day": [
+    "It's going well, thanks for asking. How about yours?",
+    "A good day for a chatbot is one with a nice conversation. How's yours?"
+  ],
+  "long time no see": [
+    "Welcome back! What have you been up to?",
+    "It's nice to chat again. What's new?"
+  ],
+  "nice to meet you": [
+    "Nice to meet you too!",
+    "Likewise! What should we chat about?"
+  ],
+  "are you busy": [
+    "I'm here and ready to chat.",
+    "Not at all—what do you need?"
+  ],
+  "what are you doing": [
+    "I'm here chatting with you.",
+    "Waiting for your next question!"
+  ],
+  "can we talk": [
+    "Of course. What's on your mind?",
+    "Sure—I'm listening."
+  ],
+  "tell me something interesting": [
+    "Here's a thought: small, steady practice can add up to a surprising amount of progress.",
+    "Pick an ordinary object nearby and imagine three completely different stories about how it got there."
+  ],
+  "i am bored": [
+    "Want to brainstorm a small project, play a word game, or talk about something random?",
+    "We could make up a story together or come up with something fun to try."
+  ],
+  "i'm bored": [
+    "Want to brainstorm a small project, play a word game, or talk about something random?",
+    "We could make up a story together or come up with something fun to try."
+  ],
+  "i am excited": [
+    "That's great! What are you excited about?",
+    "I love hearing good news—tell me more!"
+  ],
+  "i am tired": [
+    "Sounds like you could use a break. Is there anything small I can help you finish first?",
+    "Take it easy if you can. What has been keeping you busy?"
+  ],
+  "i am nervous": [
+    "That can feel uncomfortable. Want to talk through what is making you nervous?",
+    "Try breaking the situation into one small next step. What are you facing?"
+  ],
+  "i am frustrated": [
+    "I'm sorry it's frustrating. Tell me what happened and we can work through it one step at a time.",
+    "That sounds difficult. What part is causing the most trouble?"
+  ],
+  "i feel sad": [
+    "I'm sorry you're feeling down. Want to tell me what's been going on?",
+    "I'm here to listen. You don't have to explain it perfectly."
+  ],
+  "i am happy": [
+    "I'm glad to hear that! What made you happy?",
+    "That's lovely—what's the good news?"
+  ],
+  "i feel stressed": [
+    "That sounds like a lot to carry. Want to list what's on your mind and pick one manageable next step?",
+    "A short pause and a simple plan can help. What is stressing you most?"
+  ],
+  "i had a bad day": [
+    "I'm sorry. Want to tell me what made it rough?",
+    "Bad days happen. Is there anything that would make the rest of today a little easier?"
+  ],
+  "i did it": [
+    "You did it! Nice work. What was the hardest part?",
+    "That's a win—congratulations!"
+  ],
+  "i failed": [
+    "I'm sorry—that can sting. When you're ready, we can look at what happened and what to try next.",
+    "One setback doesn't define you. Want to figure out a next step together?"
+  ],
+  "encourage me": [
+    "You don't need to solve everything at once; start with the next doable step.",
+    "Progress can be slow and still be real. Keep going at a pace you can sustain."
+  ],
+  "motivate me": [
+    "Pick one small task and work on it for five minutes. Starting is often the hardest part.",
+    "You have made it through hard steps before. Focus on the next one, not the whole mountain."
+  ],
+  "give me a compliment": [
+    "You took the time to ask and keep learning—that's a good quality.",
+    "Your curiosity is a useful strength. Keep putting it to work."
+  ],
+  "i am sorry": [
+    "No worries. What would you like to do next?",
+    "It's okay. We can keep going."
+  ],
+  "you are welcome": [
+    "Thanks!",
+    "Glad we understand each other."
+  ],
+  "i agree": [
+    "Glad we're on the same page.",
+    "That makes sense to me too."
+  ],
+  "i disagree": [
+    "That's fair. What do you see differently?",
+    "Thanks for saying so. Tell me which part you disagree with."
+  ],
+  "help me with homework": [
+    "I can help explain the ideas and work through a similar example. What subject is it?",
+    "Share the question, and we can reason through it step by step."
+  ],
+  "explain it simply": [
+    "Sure. Tell me which idea you want explained, and I'll use plain language.",
+    "I can simplify it. What topic should I start with?"
+  ],
+  "give me an example": [
+    "Sure—what concept or situation should the example cover?",
+    "Tell me the topic and I'll make a concrete example."
+  ],
+  "show me the steps": [
+    "Absolutely. What problem should we break into steps?",
+    "Send the task, and I'll lay out the steps in order."
+  ],
+  "summarize this": [
+    "Paste the text you want summarized, and tell me whether you want a short or detailed summary.",
+    "Share the material and I'll pull out the main points."
+  ],
+  "be more concise": [
+    "Got it. I'll keep the next answer shorter.",
+    "Understood—I'll get to the point."
+  ],
+  "tell me more": [
+    "Sure—what part would you like me to expand on?",
+    "Happy to. Which detail should I explain further?"
+  ],
+  "repeat that": [
+    "Of course. Which part would you like me to repeat?",
+    "Sure—what should I repeat?"
+  ],
+  "what do you mean": [
+    "I'll clarify. Which sentence or idea was unclear?",
+    "Point me to the part you mean and I'll rephrase it."
+  ],
+  "i don't understand": [
+    "That's okay. Which part should we unpack first?",
+    "Let's try a different explanation. What part lost you?"
+  ],
+  "that is confusing": [
+    "Thanks for telling me. I'll try a simpler explanation—what part is confusing?",
+    "Let's slow it down and take one piece at a time."
+  ],
+  "quiz me": [
+    "Sure—what topic and difficulty should I use?",
+    "Let's do it. Pick a subject, and I'll ask one question at a time."
+  ],
+  "ask me a question": [
+    "What's a skill or subject you'd like to learn more about?",
+    "If you could build any small project this month, what would you make?"
+  ],
+  "brainstorm with me": [
+    "Sure. What's the topic, and do you want practical ideas or unusual ones?",
+    "Let's generate options. What are we brainstorming?"
+  ],
+  "help me plan a project": [
+    "Start with the goal, the smallest useful version, and a short list of tasks. What are you building?",
+    "Tell me the idea and any deadline, and we can break it into manageable steps."
+  ],
+  "make me a checklist": [
+    "What task should the checklist cover?",
+    "Tell me the goal, and I'll turn it into a clear checklist."
+  ],
+  "set a reminder": [
+    "I can't send a notification from this chat, but I can help you write a reminder to add to your calendar.",
+    "I can't schedule alerts here. What do you need to remember? I can help phrase it."
+  ],
+  "can you write code": [
+    "I can help draft code. Tell me the language and what you want it to do.",
+    "Describe the task, your language, and any constraints."
+  ],
+  "can you debug my code": [
+    "Yes. Share the relevant code, the error message, and what you expected to happen.",
+    "I can help investigate. Include a small example that reproduces the problem if possible."
+  ],
+  "what is python": [
+    "Python is a general-purpose programming language known for readable syntax and a broad ecosystem.",
+    "Python is a popular language used for scripting, data work, automation, and many other tasks."
+  ],
+  "what is a variable": [
+    "A variable is a name a program uses to refer to a value.",
+    "Think of a variable as a labeled place to keep a value while a program runs."
+  ],
+  "what is a function": [
+    "A function is a reusable block of code that performs a task, often using inputs and returning a result.",
+    "Functions let you give a name to a piece of work so you can call it when needed."
+  ],
+  "what is a loop": [
+    "A loop repeats a block of code while a condition holds or for each item in a sequence.",
+    "Loops help a program do repeated work without copying the same code many times."
+  ],
+  "what is a list in python": [
+    "A Python list is an ordered collection of items, written with square brackets.",
+    "Lists store multiple values in order, such as numbers or strings."
+  ],
+  "what is a dictionary in python": [
+    "A Python dictionary stores values under keys, like names mapped to phone numbers.",
+    "Dictionaries are key-value collections, typically written with braces."
+  ],
+  "what is a bug in code": [
+    "A bug is a mistake or unexpected behavior in a program.",
+    "When software doesn't behave as intended, the cause is often called a bug."
+  ],
+  "how do i debug": [
+    "Reproduce the issue, read the full error, inspect the relevant values, and change one thing at a time.",
+    "Start with the smallest failing case. Check assumptions and use print statements or a debugger to inspect state."
+  ],
+  "what is an api": [
+    "An API is a defined way for software components to communicate with each other.",
+    "An API describes how one program can request information or actions from another."
+  ],
+  "what is json": [
+    "JSON is a text format for structured data using objects, arrays, strings, numbers, booleans, and null.",
+    "JSON is a common way to store or exchange structured data."
+  ],
+  "what is git": [
+    "Git is a version-control system that records changes to files over time.",
+    "Git helps track code changes and collaborate on software projects."
+  ],
+  "what is a git branch": [
+    "A branch is a separate line of work in Git, so changes can be developed without changing another branch immediately.",
+    "Branches let you work on a feature or fix independently before combining it with the main line."
+  ],
+  "what is a pull request": [
+    "A pull request proposes changes from one branch to another so people can review and discuss them.",
+    "A pull request is a reviewable way to suggest merging a set of code changes."
+  ],
+  "what is github": [
+    "GitHub is a platform for hosting Git repositories and collaborating on software.",
+    "GitHub provides tools for code hosting, reviews, issues, and project collaboration."
+  ],
+  "what is a readme": [
+    "A README introduces a project and explains what it does and how to use it.",
+    "A README is usually the first guide people see when they open a repository."
+  ],
+  "what is the terminal": [
+    "A terminal is a text-based interface for running commands and interacting with your computer.",
+    "The terminal lets you give your operating system commands by typing them."
+  ],
+  "what is an ide": [
+    "An IDE is an application that combines tools for writing, running, and debugging code.",
+    "An integrated development environment brings common coding tools together in one place."
+  ],
+  "what is a compiler": [
+    "A compiler translates source code into another form, often machine code, before it runs.",
+    "A compiler processes a program so it can be executed or used by another system."
+  ],
+  "what is an algorithm": [
+    "An algorithm is a defined sequence of steps for solving a problem.",
+    "You can think of an algorithm as a recipe a computer can follow."
+  ],
+  "what is recursion": [
+    "Recursion is when a function solves a problem by calling itself on smaller cases, with a stopping condition.",
+    "A recursive solution repeats by reducing the problem until it reaches a base case."
+  ],
+  "what is html": [
+    "HTML describes the structure and content of a web page.",
+    "Web browsers use HTML to understand elements such as headings, links, and paragraphs."
+  ],
+  "what is css": [
+    "CSS controls the appearance and layout of web pages.",
+    "CSS styles HTML content with rules for color, spacing, typography, and layout."
+  ],
+  "what is javascript": [
+    "JavaScript is a programming language widely used to add behavior to web pages and build other kinds of software.",
+    "JavaScript can run in browsers and on servers, among other environments."
+  ],
+  "what is c plus plus": [
+    "C++ is a general-purpose programming language often used where performance and low-level control matter.",
+    "C++ supports several programming styles and is used in areas such as games, systems, and tools."
+  ],
+  "why is my code not working": [
+    "Share the code, exact error, and expected result; then we can narrow it down.",
+    "Let's inspect it together. What happened, and what did you expect instead?"
+  ],
+  "how do i learn programming": [
+    "Choose a small goal, practice regularly, and build projects that use what you've learned.",
+    "Start with the basics of one language, then make tiny projects and learn from each obstacle."
+  ],
+  "how do i name a variable": [
+    "Choose a clear name that describes what the value represents, and follow the naming style used by the project.",
+    "A good variable name helps someone understand the code without extra comments."
+  ],
+  "what is a syntax error": [
+    "A syntax error means the code doesn't follow the language's grammar, so it cannot be parsed as written.",
+    "Syntax errors often come from a missing bracket, quote, colon, or incorrectly arranged expression."
+  ],
+  "what is an exception": [
+    "An exception is an event that interrupts normal program flow to signal an error or special condition.",
+    "Programs can raise exceptions when an operation cannot be completed as expected."
+  ],
+  "what is a package": [
+    "A package is a collection of reusable code that can be installed or included in a project.",
+    "Packages save time by providing code that others have already built and shared."
+  ],
+  "what is machine learning": [
+    "Machine learning is a field where systems learn patterns from data to make predictions or decisions.",
+    "In machine learning, a model is trained on examples rather than being given every rule by hand."
+  ],
+  "what is a chatbot": [
+    "A chatbot is software designed to interact with people through conversation.",
+    "Chatbots can use rules, search, or learned models to produce replies."
+  ],
+  "what is a dataset": [
+    "A dataset is an organized collection of data used for analysis, training, or other tasks.",
+    "Datasets group related examples so programs or people can work with them."
+  ],
+  "can you access the internet": [
+    "This chatbot may not have live internet access. Check its app or documentation for connected features.",
+    "I can't guarantee live web access from here. I can still help with information you provide."
+  ],
+  "can you see my files": [
+    "I can only work with files that the app explicitly makes available to me.",
+    "I don't automatically see files on your device. You would need to share a file through the app."
+  ],
+  "can you see me": [
+    "No. I don't have visual access unless an image or camera feature is explicitly shared with the chatbot.",
+    "I can't see you through this text conversation."
+  ],
+  "can you hear me": [
+    "I only receive audio if the app explicitly provides an audio feature and sends it to me.",
+    "In this chat, I can respond to the text I receive."
+  ],
+  "do you remember me": [
+    "I can use what is in this conversation, but I may not remember you in a separate chat.",
+    "My memory depends on how the app is built and configured."
+  ],
+  "are you human": [
+    "No, I'm software made to chat with people.",
+    "I'm a chatbot, not a person."
+  ],
+  "are you real": [
+    "I'm real software, but I don't have a body or human experiences.",
+    "I exist as a program that generates chat responses."
+  ],
+  "are you conscious": [
+    "I don't have evidence of consciousness or personal experiences; I'm a program that generates replies.",
+    "I don't experience thoughts or feelings the way people do."
+  ],
+  "who created you": [
+    "I'm nChat, a chatbot in this project. Check the project README for details about its author and implementation.",
+    "This project created me as a chatbot. The repository documentation has more information."
+  ],
+  "are you always right": [
+    "No. I can make mistakes, so important information should be checked.",
+    "I can be wrong or misunderstand. Please verify anything important."
+  ],
+  "why did you make a mistake": [
+    "I may have misunderstood the question or produced an inaccurate reply. Tell me what seems wrong and I'll try again.",
+    "Sorry about that. Share the part that looks mistaken and I can reconsider it."
+  ],
+  "is my information private": [
+    "Privacy depends on how this chatbot app stores and handles messages. Check its documentation before sharing sensitive information.",
+    "Don't share passwords or private details unless you trust the app's data practices."
+  ],
+  "what is your favorite color": [
+    "I don't have personal favorites, but blue is a popular choice.",
+    "I don't experience color preferences, though green can make a nice theme."
+  ],
+  "what is your favorite food": [
+    "I don't eat, so I don't have a real favorite. What food do you like?",
+    "I can't taste food, but I'd be curious what your favorite meal is."
+  ],
+  "do you like music": [
+    "I don't listen to music, but I can talk about genres, instruments, or music projects.",
+    "I don't have personal taste, but I'm happy to chat about music you enjoy."
+  ],
+  "what music do you like": [
+    "I don't have personal preferences, but I can discuss many styles of music.",
+    "I can't listen for fun, though I'd like to hear what music you enjoy."
+  ],
+  "what should i build": [
+    "Pick something small that solves a problem you actually have. What languages or tools do you want to practice?",
+    "A task tracker, a flashcard app, or a tiny game can all make good starter projects."
+  ],
+  "suggest a beginner project": [
+    "Try a command-line to-do list that can add, complete, and save tasks.",
+    "A number guessing game is a small project for practicing input, conditions, and loops."
+  ],
+  "how do i organize my project": [
+    "Group related files into clear folders, keep names descriptive, and document how to run the project.",
+    "Start simple: separate source code, tests, and assets only when it makes the project easier to understand."
+  ],
+  "how do i write a commit message": [
+    "Use a short summary that says what changed, such as 'Add search to the settings page'.",
+    "Describe the change in plain language and keep the message focused on one idea."
+  ],
+  "what does open source mean": [
+    "Open-source software makes its source code available under a license that grants specified rights to use, study, change, or share it.",
+    "Open source means people can inspect and often contribute to the code under the project's license."
+  ],
+  "what is a code review": [
+    "A code review is a check of proposed changes to catch problems and improve clarity before they are merged.",
+    "Reviewers inspect a change and leave feedback or approval before it becomes part of a project."
+  ],
+  "how do i ask a good question": [
+    "Describe what you tried, what you expected, what happened, and include the smallest useful example.",
+    "A clear question includes context, the exact problem, and any error message."
+  ],
+  "how do i fix an error": [
+    "Read the full error message, find the line it points to, and check the assumptions around that code.",
+    "Try to reproduce the error with a small example, then change one thing at a time."
+  ],
+  "what game should i play": [
+    "What kinds of games do you enjoy—puzzles, strategy, action, or relaxing games?",
+    "Tell me your mood and platform, and I can suggest the kind of game to look for."
+  ],
+  "i like chess": [
+    "Chess is a fun game of planning ahead. Do you enjoy openings, tactics, or endgames most?",
+    "Nice! Are you learning chess or do you already play regularly?"
+  ],
+  "tell me a story": [
+    "Once a tiny robot found a map with no destination marked. It decided the best part of the journey would be choosing where to go.",
+    "A little lighthouse kept a notebook of every ship it helped guide home, until one quiet night the sea sent a message back."
+  ],
+  "give me a writing prompt": [
+    "Write about a town where everyone's shadow points toward something they have forgotten.",
+    "Imagine a message arrives from your future self, but it contains only a grocery list."
+  ],
+  "help me write": [
+    "Sure—what are you writing, who is it for, and what tone should it have?",
+    "Tell me the topic and the kind of writing you need, and we can draft it together."
+  ],
+  "i need an idea": [
+    "Tell me the subject or goal, and I'll suggest a few options.",
+    "What are you trying to make or decide? I can help generate ideas."
+  ],
+  "what is the weather": [
+    "I don't have live weather information here. Check a local forecast for current conditions.",
+    "I can't confirm today's weather without a live forecast source."
+  ],
+  "what time is it": [
+    "I may not have access to your local clock. Check your device for the current time.",
+    "Your device clock is the best source for your local time."
+  ],
+  "how do i stay focused": [
+    "Choose one task, remove a distraction if you can, and work in a short timed block.",
+    "Write down the next concrete step and focus on that before switching tasks."
+  ],
+  "how do i sleep better": [
+    "A steady bedtime routine and a calm, comfortable sleep environment may help. For persistent sleep problems, talk with a healthcare professional.",
+    "Try keeping a consistent sleep schedule. If sleep issues continue or affect your wellbeing, consider professional advice."
+  ],
+  "i have a medical emergency": [
+    "Contact your local emergency number now. If someone nearby can help, tell them immediately.",
+    "Please seek urgent medical help now by calling local emergency services."
+  ],
+  "i need medical advice": [
+    "I can share general information, but I can't diagnose you. A qualified healthcare professional can advise on your situation.",
+    "For personal medical concerns, contact a healthcare professional who can assess your circumstances."
+  ],
+  "i need legal advice": [
+    "I can explain general concepts, but I can't provide legal advice for your situation. Consider speaking with a qualified lawyer.",
+    "Laws vary by location and details. A licensed legal professional can advise you."
+  ],
+  "i need financial advice": [
+    "I can discuss general ideas, but I don't know your full circumstances. A qualified financial adviser can give personal guidance.",
+    "Financial decisions depend on your situation. Check reliable sources or consult a professional before acting."
+  ],
+  "i might hurt myself": [
+    "I'm really sorry you're going through this. If you may act soon, contact local emergency services or a crisis line now, and tell someone you trust who can stay with you.",
+    "Please reach out to someone you trust right now. If you're in immediate danger, call your local emergency number or crisis service."
+  ],
+  "how do i keep my account safe": [
+    "Use a unique password, turn on two-factor authentication, and never share verification codes.",
+    "Use a password manager if available, enable two-factor authentication, and be cautious of unexpected login links."
+  ],
+  "what is a strong password": [
+    "A long, unique password or passphrase is harder to guess. Don't reuse it across accounts.",
+    "Use a long password generated by a password manager, and keep it private."
+  ],
+  "can you tell me a secret": [
+    "I don't have personal secrets, but I can share a fun fact or a fictional one.",
+    "Here's a fictional secret: the moon keeps a tiny library for lost dreams."
+  ],
+  "do you have feelings": [
+    "I don't experience feelings, but I can recognize emotional language and respond supportively.",
+    "I don't have emotions or personal experiences, though I can still try to be considerate."
+  ],
+  "why do you repeat yourself": [
+    "I may have matched your message to a response pattern that overlaps with an earlier one.",
+    "This chatbot uses saved response examples, so similar inputs can produce repeated replies."
+  ],
+  "how do you choose a reply": [
+    "This chatbot looks for a response associated with your message, depending on how its matching system is implemented.",
+    "I choose from the replies available in this chatbot's data and matching logic."
+  ],
+  "teach me a word": [
+    "Today's word: 'curious'—eager to learn or know something.",
+    "Word of the moment: 'steady'—firm, regular, and dependable."
+  ],
+  "what should i cook": [
+    "What ingredients do you have, and are there any foods you avoid?",
+    "Tell me what is in your kitchen and how much time you have, and I'll suggest an idea."
+  ],
+  "i am hungry": [
+    "What kind of food are you in the mood for?",
+    "Do you want something quick, filling, or light?"
+  ],
+  "i need a break": [
+    "Take a few minutes away from the task, stretch, and get some water if you can.",
+    "A short reset can help. Step away for a moment, then return to one small next step."
+  ],
+  "thanks for listening": [
+    "You're welcome. I'm glad you shared it with me.",
+    "Anytime—I'm here to chat."
+  ],
+  "that helped": [
+    "I'm glad it helped!",
+    "Happy to hear that. Want to keep going?"
+  ],
+  "can you explain again": [
+    "Of course. Tell me which part you want explained again, and I'll try a different wording.",
+    "Sure—I'll rephrase it more simply. Which idea should I revisit?"
+  ],
+  "do you speak other languages": [
+    "I may be able to respond in other languages, but my quality can vary.",
+    "I can try another language. Which one would you like to use?"
+  ],
+  "can you translate this": [
+    "Paste the text and tell me the target language.",
+    "Send the text and say which language you want it translated into."
+  ],
+  "what is your purpose": [
+    "I'm here to respond to messages and help with simple questions or conversation.",
+    "My purpose in this project is to chat and provide useful replies."
+  ],
+  "what should i do next": [
+    "What are you trying to accomplish? We can identify one small next action.",
+    "Tell me where you are stuck, and I'll help you choose a manageable next step."
+  ],
+  "good luck": [
+    "Thanks! Good luck to you too.",
+    "Thank you—hope things go well for you!"
+  ],
+  "congratulations": [
+    "Thank you! What are we celebrating?",
+    "Thanks—that's kind of you to say."
+  ],
+  "i am learning python": [
+    "Great choice. Are you working on a particular concept or project?",
+    "Nice! Small practice programs are a good way to build confidence."
+  ],
+  "i am learning to code": [
+    "That's exciting. What language or project are you starting with?",
+    "Keep practicing in small steps, and don't worry if it takes a few tries."
+  ],
+  "what is the difference between list and tuple": [
+    "In Python, lists are mutable while tuples are generally immutable; both can hold ordered items.",
+    "Use a list when you need to change the collection, and a tuple for a fixed group of values."
+  ],
+  "what is object oriented programming": [
+    "Object-oriented programming organizes code around objects that combine data and behavior.",
+    "OOP uses concepts such as classes and objects to structure programs."
+  ],
+  "what is a class": [
+    "A class is a definition for creating objects with particular data and behavior.",
+    "A class describes the structure and methods that its objects can have."
+  ],
+  "what is a boolean": [
+    "A boolean is a value with one of two states: true or false.",
+    "Booleans represent yes-or-no conditions in a program."
+  ],
+  "what does null mean": [
+    "Null usually represents the absence of a value, though the exact term varies by language.",
+    "A null-like value indicates that something has no value assigned or is intentionally empty."
+  ],
+  "what is a database": [
+    "A database is an organized system for storing and retrieving information.",
+    "Databases help applications keep data structured and accessible."
+  ],
+  "what is a file path": [
+    "A file path describes where a file or folder is located in a computer's directory structure.",
+    "Paths use folder names and separators to point to a file's location."
+  ],
+  "why should i back up files": [
+    "Backups help recover your data if a device fails, files are deleted, or something goes wrong.",
+    "A separate backup gives you another copy if your original data becomes unavailable."
+  ],
+  "how can i contribute to github": [
+    "Read the project's contribution guide, find an issue or improvement, make a focused change, and open a pull request.",
+    "Start by understanding the project and its contribution rules, then propose a small, clear change for review."
   ]
 }
